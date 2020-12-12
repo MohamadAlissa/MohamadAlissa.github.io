@@ -22,5 +22,5 @@ A data scientist who teaches machines for a living. I love to automate processes
 - <a style="text-decoration: none" href="https://ieeexplore.ieee.org/document/9202590" target="_top">TRUSTD: Combat Fake Content using Blockchain and Collective Signature Technologies</a>
 - <a style="text-decoration: none" href="https://ieeexplore.ieee.org/abstract/document/9169435" target="_top">Trust-based Ecosystem to Combat Fake News</a>
 - <a style="text-decoration: none" href=" " target="_top">Parkinson’s Disease Diagnosis Using Deep Learning</a>
-- <a style="text-decoration: none" href="https://github.com/MohamadALissa/Parkinson-s-disease-diagnosis-using-deep-learning/blob/master/MHD%20Rateb%20Alissa%20Poster.pdf" target="_top">Page</a>
+- <a style="text-decoration: none" href="https://github.com/MohamadALissa/Parkinson-s-disease-diagnosis-using-deep-learning/blob/master/MHD%20Rateb%20Alissa%20Poster.pdf"target="_top">Page</a>
 
