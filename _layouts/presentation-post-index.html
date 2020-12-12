@@ -30,7 +30,7 @@
       {% endif %}
       <article>
         {% if post.link %}
-     <h2 class="link-post"><a href="{{ post.link }}" title="{{ post.title }}" target="_blank" title="{{ post.title }}">{{ post.title }}</a></h2>
+     <h2><a href="{{ post.link }}" title="{{ post.title }}" target="_blank" title="{{ post.title }}">{{ post.title }}</a></h2>
      <span> <p>{{ post.excerpt | strip_html | truncate: 160 }}</p> </span>
         {% else %}
           <h2><a href="{{ site.github.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
