@@ -17,6 +17,7 @@ A data scientist who teaches machines for a living. I love to automate processes
 
 # Projects & Publications:
 
+- <a style="text-decoration: none" href="./product/download.html" target="_top">Download Page</a>
 - [Algorithm Selection Using Deep Learning Without Feature Extraction](https://dl.acm.org/doi/10.1145/3321707.3321845) 
 - [A Deep Learning Approach to Predicting Solutions in Streaming Optimisation Domains](https://dl.acm.org/doi/10.1145/3377930.3390224)
 - [TRUSTD: Combat Fake Content using Blockchain and Collective Signature Technologies](https://ieeexplore.ieee.org/document/9202590)
