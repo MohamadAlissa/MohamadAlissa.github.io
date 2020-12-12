@@ -3,22 +3,45 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Researcher PhD Candidate at Edinburgh Napier University
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2018 - present`
+__Edinburgh Napier University__
+Doctor of Philosophy - PhD Degree in Algorithm Selection Automation using Deep Learning
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2017 - 2018`
+__Heriot-Watt University__
+Master's Degree With Distinction in Artificial Intelligence
+
+`2007 - 2012`
+__Damascus University__
+Bachelors Degree in Computer Engineering & Automation ( Control Engineering & Automation )
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2019`
+Best Paper Award, Genetic and Evolutionary Computation Conference (GECCO) 
+
+`2019`
+Conference Bursary, Scottish Informatics and Computer Science Alliance (SICSA) 
+
+`2018`
+Fully Funded PhD Studentship, honor issuerEdinburgh Napier University 
+
+`2018`
+Alison Cawsey Memorial Prize, Department of Computer Science at Heriot-Watt University
+
+`2018`
+The Best MSc Poster Prize, Department of Computer Science at Heriot-Watt University
+
+`2017`
+DataLab Scholarship, DataLab 
+
+`2011`
+Albasel Award, Damascus University 
+
 
 ## Publications
 
