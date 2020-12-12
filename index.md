@@ -2,6 +2,7 @@
 layout: page
 excerpt: "About Me..."
 ---
+<meta name="google-site-verification" content="xmTIfTeBQkFUH6WZcZ7eUOn-y13Y-QEDFI6SwnCGA_s" />
 
 A data scientist who teaches machines for a living. I love to automate processes and work with non-traditional ideas. 
 
