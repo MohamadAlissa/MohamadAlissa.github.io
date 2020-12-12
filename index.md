@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+A data scientist who teaches machines for a living. I love to automate processes and work with non-traditional ideas. 
 
 ## Current Interests and Projects:
 
