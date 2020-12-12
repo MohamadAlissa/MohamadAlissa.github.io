@@ -8,20 +8,20 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Mohamad Alissa
   avatar: Mohamad.jpg
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  bio: "Researcher PhD Student | Data Scientist | Software Developer"
+  email: m.alissa@napier.ac.uk
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
-  linkedin: #username
-  github: laderast
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
+  twitter: @MohamadALissa11
+  linkedin: mohamadalissa
+  github: mohamadalissa
+  orcid: 0000-0002-9548-863X # ID Number (ex. 0000-0000-0000-0000)
+  researchgate: Mohamad_Alissa2 #username
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: 2KL293gAAAAJ&hl #id
   facebook: #username
   instagram: #username
   bing-verify:
