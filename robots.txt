@@ -1,3 +1,4 @@
+Sitemap:https://mohamadalissa.github.io/sitemap.xml
 User-agent: *
 Disallow:
-Sitemap:https://mohamadalissa.github.io/sitemap.xml
+
