@@ -39,6 +39,9 @@ The Best MSc Poster Prize, Department of Computer Science at Heriot-Watt Univers
 `2017`
 DataLab Scholarship, DataLab 
 
+`2017`
+ Pre-sessional Course Scholarship, University Of Glasgow 
+
 `2011`
 Albasel Award, Damascus University 
 
