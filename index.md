@@ -2,7 +2,8 @@
 layout: page
 excerpt: "About Me..."
 ---
-A data scientist who teaches machines for a living. I love to automate processes and work with non-traditional ideas. 
+
+Data scientist who teaches machines for a living. I am passionate about implementing creative solutions for never-before-solved/seen problems. I love to automate & optimise processes and work with non-traditional ideas.
 
 ## Current Interests:
 
