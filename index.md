@@ -23,5 +23,6 @@ excerpt: "About Me..."
 - <a style="text-decoration: none" href="https://ieeexplore.ieee.org/document/9202590" target="_top">TRUSTD: Combat Fake Content using Blockchain and Collective Signature Technologies</a>
 - <a style="text-decoration: none" href="https://ieeexplore.ieee.org/abstract/document/9169435" target="_top">Trust-based Ecosystem to Combat Fake News</a>
 - <a style="text-decoration: none" href="https://github.com/MohamadALissa/Parkinson-s-disease-diagnosis-using-deep-learning/blob/master/MHD%20Rateb%20Alissa%20Poster.pdf" target="_top">Parkinson’s Disease Diagnosis Using Deep Learning</a>
+- <a style="text-decoration: none" href="https://github.com/MohamadALissa/Sentiment-Analysis/blob/master/F21CA_Sentiment_Analysis_Group_Final_Report.pdf" target="_top">Sentiment Analysis Using Machine Learning For Open Domain Conversational Agent</a>
 
 
