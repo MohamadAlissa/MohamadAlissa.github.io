@@ -11,6 +11,7 @@ Data scientist who teaches machines for a living. I am passionate about making p
 - Artificial Intelligence
 - Data Science
 - Deep Learning
+- Reinforcement Learning
 - Optimisation
 - Algorithm Selection
 - Fake News
