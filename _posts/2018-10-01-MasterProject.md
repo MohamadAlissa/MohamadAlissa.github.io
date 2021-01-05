@@ -6,7 +6,7 @@ theme: simple
 transition: convex
 tags: [presentation]
 category: presentation
-link: https://github.com/MohamadALissa/Parkinsons-disease-diagnosis-using-deep-learning/blob/master/Parkinson's%20Disease%20Diagnosis%20using%20Deep%20learning.pdf
+link: https://github.com/MohamadALissa/Parkinsons-disease-diagnosis-using-deep-learning/blob/master/Presentation.pdf
 ---
 
 
