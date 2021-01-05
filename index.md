@@ -25,6 +25,6 @@ Data scientist who teaches machines for a living. I am passionate about implemen
 - <a style="text-decoration: none" href="https://ieeexplore.ieee.org/abstract/document/9169435" target="_top">Trust-based Ecosystem to Combat Fake News</a>
 - <a style="text-decoration: none" href="https://github.com/MohamadALissa/Parkinsons-disease-diagnosis-using-deep-learning" target="_top">Parkinson's disease diagnosis using Deep Learning(CNN and RNN-LSTM)</a>
 - <a style="text-decoration: none" href="https://arxiv.org/abs/2101.00675" target="_top">Sentiment Analysis Using Machine Learning For Open Domain Conversational Agent</a>
-- <a style="text-decoration: none" href="https://openflights.org/data.html" target="_top">Developing an automated extract-transform-load data pipeline to transform a relational database (MySQL) into NoSQL database using Open Flights Dataset (+67,000 records).</a>
-- <a style="text-decoration: none" href="https://mohamadalissa.github.io/Dashboard/" target="_top">Interactive Dashboard For a Quality Assessment of UK Universities' Research.</a>
-- <a style="text-decoration: none" href="" target="_top">Emotion recognition using Machine Learning</a>
+- Developing an automated extract-transform-load data pipeline to transform a relational database (MySQL) into NoSQL database using Open Flights Dataset (+67,000 records).
+- Interactive Dashboard For a Quality Assessment of UK Universities' Research.
+- Emotion recognition using Machine Learning.
