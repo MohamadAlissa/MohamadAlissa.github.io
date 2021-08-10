@@ -19,7 +19,9 @@ Data scientist who teaches machines for a living. I am passionate about implemen
 
 
 # Projects & Publications:
-- A Neural Approach to Generation of Constructive Heuristics.
+
+- Parkinson's Disease Diagnosis using Convolutional Neural Networks and Figure-copying Tasks.
+- <a style="text-decoration: none" href="https://ieeexplore.ieee.org/document/9504989" target="_top">A Neural Approach to Generation of Constructive Heuristics.</a>
 - <a style="text-decoration: none" href="https://dl.acm.org/doi/10.1145/3321707.3321845" target="_top">Algorithm Selection Using Deep Learning Without Feature Extraction</a>
 - <a style="text-decoration: none" href="https://dl.acm.org/doi/10.1145/3377930.3390224" target="_top">A Deep Learning Approach to Predicting Solutions in Streaming Optimisation Domains</a>
 - <a style="text-decoration: none" href="https://ieeexplore.ieee.org/document/9202590" target="_top">TRUSTD: Combat Fake Content using Blockchain and Collective Signature Technologies</a>
