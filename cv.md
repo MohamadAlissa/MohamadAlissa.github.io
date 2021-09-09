@@ -19,31 +19,7 @@ Master's Degree With Distinction in Artificial Intelligence
 __Damascus University__
 Bachelors Degree in Computer Engineering & Automation ( Control Engineering & Automation )
 
-## Awards
 
-`2019`
-Best Paper Award, Genetic and Evolutionary Computation Conference (GECCO) 
-
-`2019`
-Conference Bursary, Scottish Informatics and Computer Science Alliance (SICSA) 
-
-`2018`
-Fully Funded PhD Studentship, honor issuerEdinburgh Napier University 
-
-`2018`
-Alison Cawsey Memorial Prize, Department of Computer Science at Heriot-Watt University
-
-`2018`
-The Best MSc Poster Prize, Department of Computer Science at Heriot-Watt University
-
-`2017`
-DataLab Scholarship, DataLab 
-
-`2017`
- Pre-sessional Course Scholarship, University Of Glasgow 
-
-`2011`
-Albasel Award, Damascus University 
 
 
 ## Publications
@@ -83,6 +59,31 @@ A list is also available [online](https://scholar.google.com/citations?user=2KL2
 <!--
 ## Presentations-->
 
+## Awards
+
+`2019`
+Best Paper Award, Genetic and Evolutionary Computation Conference (GECCO) 
+
+`2019`
+Conference Bursary, Scottish Informatics and Computer Science Alliance (SICSA) 
+
+`2018`
+Fully Funded PhD Studentship, honor issuerEdinburgh Napier University 
+
+`2018`
+Alison Cawsey Memorial Prize, Department of Computer Science at Heriot-Watt University
+
+`2018`
+The Best MSc Poster Prize, Department of Computer Science at Heriot-Watt University
+
+`2017`
+DataLab Scholarship, DataLab 
+
+`2017`
+ Pre-sessional Course Scholarship, University Of Glasgow 
+
+`2011`
+Albasel Award, Damascus University 
 
 ## Occupation
 
