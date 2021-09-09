@@ -91,16 +91,12 @@ __Researcher PhD Candidate__, Edinburgh Napier University
 
 
 As a multi-disciplinary researcher, these are the main activities:
+
 • Addressing automated algorithm selection and generation problems using Artificial Intelligence techniques such as Deep Learning and Machine Learning.
-
 • Proposing novel and creative approaches for algorithm selection and generation problems.
-
 • Developing and evaluating proof of concepts for these problems using the proposed approaches.
-
 • Publishing the outcomes of this research in rank A international conferences and high-quality journals.
-
 • Presenting and discussing the research outcomes with experts from different countries.
-
 • Establishing researches with colleagues in other domains like cyber security.
 
 
@@ -110,17 +106,13 @@ __Computer Engineer (Low Current) & Software Developer__, Freelance
 As a software developer:
 
 • Creating automated workflows to increase the productivity of the customer’s team. 
-
 • Developing powerful and useful tools using C# and Dynamo to overcome the BIM software limitations and avoid daily tedious tasks.
 
 As a computer engineer (low current):
 
 • Low current systems design.
-
 • BIM modelling for lighting, small power, cable routing and low current systems.
-
 • Electrical wiring, create panel schedule and bill of quantities.
-
 • In general, modelling, coordination and shop-drawing for electrical systems.
 
 
@@ -129,11 +121,8 @@ As a computer engineer (low current):
 __Computer Engineer (Low Current)__, Al-Marasem International For Development 
 
 • Mechanical, electrical, and plumbing systems coordinator.
-
 • Mechanical, electrical, and plumbing systems technical support.
-
 • Modeling, coordination and shop-drawing for integrated security systems, sound systems, data & telephone networks systems and fire alarm systems using Revit and Navisworks.
-
 • Representing Al-Marasem at Dar Al Handasah (Shair and Partners) Consultants to solve and chase up the Request For Information (RFI) of the projects.
 
 
