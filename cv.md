@@ -9,7 +9,7 @@ Researcher PhD Candidate at Edinburgh Napier University
 
 `2018 - present`
 __Edinburgh Napier University__
-Doctor of Philosophy - PhD Degree in Algorithm Selection Automation using Deep Learning
+PhD in Automated Algorithm Selection and Generation using Deep Learning
 
 `2017 - 2018`
 __Heriot-Watt University__
