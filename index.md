@@ -17,8 +17,7 @@ Data scientist who teaches machines for a living. I am passionate about implemen
 - Automated Algorithm Generation
 - Fake News Combat
 
-
-# Projects & Publications:
+# Publications:
 
 - <a style="text-decoration: none" href="https://link.springer.com/epdf/10.1007/s00521-021-06469-7?sharing_token=4PCzHFdiEmm9D7Uh2OQ9Pfe4RwlQNchNByi7wbcMAY4KGHpK9z1JvJw5x7bC-7zMYw1rgi-xVgCisJ0Won-ZVSJuFhew7Apj4FUf8dwS6drV41KNwnrCRbNZAGnCdd6rMu5f7ZfKiUI6wzf5-t41C6sZtOoXorv7_z4IGAhNDCI%3D" target="_top">Parkinson's Disease Diagnosis using Convolutional Neural Networks and Figure-copying Tasks.</a>
 - <a style="text-decoration: none" href="https://ieeexplore.ieee.org/document/9504989" target="_top">A Neural Approach to Generation of Constructive Heuristics.</a>
@@ -26,8 +25,15 @@ Data scientist who teaches machines for a living. I am passionate about implemen
 - <a style="text-decoration: none" href="https://dl.acm.org/doi/10.1145/3377930.3390224" target="_top">A Deep Learning Approach to Predicting Solutions in Streaming Optimisation Domains</a>
 - <a style="text-decoration: none" href="https://ieeexplore.ieee.org/document/9202590" target="_top">TRUSTD: Combat Fake Content using Blockchain and Collective Signature Technologies</a>
 - <a style="text-decoration: none" href="https://ieeexplore.ieee.org/abstract/document/9169435" target="_top">Trust-based Ecosystem to Combat Fake News</a>
+
+# Projects:
+
+- <a style="text-decoration: none" href="https://github.com/MohamadALissa/Spark_StackOverflow/blob/main/Spark_StackOverflow.ipynb" target="_top">Predict Developer Salary using Spark</a>
+- <a style="text-decoration: none" href="https://mohamadalissa.github.io/StackOverflow2020-Dashboard/" target="_top">A Tableau Dashboard of StackOverflow 2020 Survey</a>
 - <a style="text-decoration: none" href="https://github.com/MohamadALissa/Parkinsons-disease-diagnosis-using-deep-learning" target="_top">Parkinson's disease diagnosis using Deep Learning(CNN and RNN-LSTM)</a>
 - <a style="text-decoration: none" href="https://arxiv.org/abs/2101.00675" target="_top">Sentiment Analysis Using Machine Learning For Open Domain Conversational Agent</a>
+- <a style="text-decoration: none" href="https://mohamadalissa.github.io/Dashboard/" target="_top">Interactive Dashboard For a Quality Assessment of UK Universities' Research.</a>
 - Developing an automated extract-transform-load data pipeline to transform a relational database (MySQL) into NoSQL database using Open Flights Dataset (+67,000 records).
-- Interactive Dashboard For a Quality Assessment of UK Universities' Research.
 - Emotion recognition using Machine Learning.
+
+
