@@ -91,40 +91,44 @@ __Researcher PhD Candidate__, Edinburgh Napier University
 
 
 As a multi-disciplinary researcher, these are the main activities:
-
-• Addressing automated algorithm selection and generation problems using Artificial Intelligence techniques such as Deep Learning and Machine Learning.
-• Proposing novel and creative approaches for algorithm selection and generation problems.
-• Developing and evaluating proof of concepts for these problems using the proposed approaches.
-• Publishing the outcomes of this research in rank A international conferences and high-quality journals.
-• Presenting and discussing the research outcomes with experts from different countries.
-• Establishing researches with colleagues in other domains like cyber security.
-
+<ul>
+<li> Addressing automated algorithm selection and generation problems using Artificial Intelligence techniques such as Deep Learning and Machine Learning. </li>
+<li> Proposing novel and creative approaches for algorithm selection and generation problems. </li>
+<li> Developing and evaluating proof of concepts for these problems using the proposed approaches. </li>
+<li> Publishing the outcomes of this research in rank A international conferences and high-quality journals. </li>
+<li> Presenting and discussing the research outcomes with experts from different countries. </li>
+<li> Establishing researches with colleagues in other domains like cyber security. </li>
+</ul>
 
 `2015-2017`
 __Computer Engineer (Low Current) & Software Developer__, Freelance 
 
 As a software developer:
-
-• Creating automated workflows to increase the productivity of the customer’s team. 
-• Developing powerful and useful tools using C# and Dynamo to overcome the BIM software limitations and avoid daily tedious tasks.
+<ul>
+<li> Creating automated workflows to increase the productivity of the customer’s team. 
+<li> Developing powerful and useful tools using C# and Dynamo to overcome the BIM software limitations and avoid daily tedious tasks.</li>
+</ul>
 
 As a computer engineer (low current):
 
-• Low current systems design.
-• BIM modelling for lighting, small power, cable routing and low current systems.
-• Electrical wiring, create panel schedule and bill of quantities.
-• In general, modelling, coordination and shop-drawing for electrical systems.
+<ul>
+<li> Low current systems design. </li>
+<li> BIM modelling for lighting, small power, cable routing and low current systems. </li>
+<li> Electrical wiring, create panel schedule and bill of quantities. </li>
+<li> In general, modelling, coordination and shop-drawing for electrical systems.</li> 
+</ul>
 
 
 
 `2014-2016`
 __Computer Engineer (Low Current)__, Al-Marasem International For Development 
 
-• Mechanical, electrical, and plumbing systems coordinator.
-• Mechanical, electrical, and plumbing systems technical support.
-• Modeling, coordination and shop-drawing for integrated security systems, sound systems, data & telephone networks systems and fire alarm systems using Revit and Navisworks.
-• Representing Al-Marasem at Dar Al Handasah (Shair and Partners) Consultants to solve and chase up the Request For Information (RFI) of the projects.
-
+<ul>
+<li> Mechanical, electrical, and plumbing systems coordinator. </li>
+<li> Mechanical, electrical, and plumbing systems technical support. </li>
+<li> Modeling, coordination and shop-drawing for integrated security systems, sound systems, data & telephone networks systems and fire alarm systems using Revit and Navisworks. </li>
+<li> Representing Al-Marasem at Dar Al Handasah (Shair and Partners) Consultants to solve and chase up the Request For Information (RFI) of the projects. </li>
+</ul>
 
 `2012-2014`
 __Computer Engineer (Low Current)__, Ocean And River Company (OAR) 
