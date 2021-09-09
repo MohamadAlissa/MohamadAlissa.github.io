@@ -29,10 +29,10 @@ Data scientist who teaches machines for a living. I am passionate about implemen
 
 # Projects:
 
-- <a style="text-decoration: none" href="https://github.com/MohamadALissa/Spark_StackOverflow/blob/main/Spark_StackOverflow.ipynb" target="_top">Predict Developer Salary using Spark</a>
-- <a style="text-decoration: none" href="https://mohamadalissa.github.io/StackOverflow2020-Dashboard/" target="_top">A Tableau Dashboard of StackOverflow 2020 Survey</a>
-- <a style="text-decoration: none" href="https://github.com/MohamadALissa/Parkinsons-disease-diagnosis-using-deep-learning" target="_top">Parkinson's disease diagnosis using Deep Learning(CNN and RNN-LSTM)</a>
-- <a style="text-decoration: none" href="https://arxiv.org/abs/2101.00675" target="_top">Sentiment Analysis Using Machine Learning For Open Domain Conversational Agent</a>
+- <a style="text-decoration: none" href="https://github.com/MohamadALissa/Spark_StackOverflow/blob/main/Spark_StackOverflow.ipynb" target="_top">Predict Developer Salary using Spark.</a>
+- <a style="text-decoration: none" href="https://mohamadalissa.github.io/StackOverflow2020-Dashboard/" target="_top">A Tableau Dashboard of StackOverflow 2020 Survey.</a>
+- <a style="text-decoration: none" href="https://github.com/MohamadALissa/Parkinsons-disease-diagnosis-using-deep-learning" target="_top">Parkinson's disease diagnosis using Deep Learning(CNN and RNN-LSTM).</a>
+- <a style="text-decoration: none" href="https://arxiv.org/abs/2101.00675" target="_top">Sentiment Analysis Using Machine Learning For Open Domain Conversational Agent.</a>
 - <a style="text-decoration: none" href="https://mohamadalissa.github.io/Dashboard/" target="_top">Interactive Dashboard For a Quality Assessment of UK Universities' Research.</a>
 - Developing an automated extract-transform-load data pipeline to transform a relational database (MySQL) into NoSQL database using Open Flights Dataset (+67,000 records).
 - Emotion recognition using Machine Learning.
