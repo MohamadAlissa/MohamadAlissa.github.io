@@ -50,20 +50,29 @@ Albasel Award, Damascus University
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-<!--### Journals-->
+### Journals
+`2021`
+Parkinson's Disease Diagnosis using Convolutional Neural Networks and Figure-copying Tasks, Neural Computing and Applications Journal, <a href="https://link.springer.com/epdf/10.1007/s00521-021-06469-7?sharing_token=4PCzHFdiEmm9D7Uh2OQ9Pfe4RwlQNchNByi7wbcMAY4KGHpK9z1JvJw5x7bC-7zMYw1rgi-xVgCisJ0Won-ZVSJuFhew7Apj4FUf8dwS6drV41KNwnrCRbNZAGnCdd6rMu5f7ZfKiUI6wzf5-t41C6sZtOoXorv7_z4IGAhNDCI%3D">Link to the Paper</a>
+
+`2021`
+Automated Algorithm Selection: from Feature-Basedto Feature-Free Approaches, Journal of Heuristics, <a href="">Link to the Paper</a>
 
 ### Conferences
-`2020`
-A Deep Learning Approach to Predicting Solutions in Streaming Optimisation Domains, Genetic and Evolutionary Computation Conference (GECCO), <a href="https://dl.acm.org/doi/10.1145/3377930.3390224">Link to Presentation</a>
+
+`2021`
+A Neural Approach to Generation of Constructive Heuristics, IEEE Congress on Evolutionary Computation (CEC), <a href="https://ieeexplore.ieee.org/document/9504989">Link to the Paper</a>
 
 `2020`
-TRUSTD: Combat Fake Content using Blockchain and Collective Signature Technologies, IEEE Annual International Computer Software and Applications Conference (COMPSAC), <a href="https://ieeexplore.ieee.org/document/9202590">Link to Presentation</a>
+A Deep Learning Approach to Predicting Solutions in Streaming Optimisation Domains, Genetic and Evolutionary Computation Conference (GECCO), <a href="https://dl.acm.org/doi/10.1145/3377930.3390224">Link to the Paper</a>
+
+`2020`
+TRUSTD: Combat Fake Content using Blockchain and Collective Signature Technologies, IEEE Annual International Computer Software and Applications Conference (COMPSAC), <a href="https://ieeexplore.ieee.org/document/9202590">Link to the Paper</a>
 
 `2019`
-Trust-based Ecosystem to Combat Fake News, IEEE International Conference on Blockchain and Cryptocurrency (ICBC), <a href="https://ieeexplore.ieee.org/abstract/document/9169435">Link to Presentation</a>
+Trust-based Ecosystem to Combat Fake News, IEEE International Conference on Blockchain and Cryptocurrency (ICBC), <a href="https://ieeexplore.ieee.org/abstract/document/9169435">Link to the Paper</a>
 
 `2019`
-Algorithm Selection Using Deep Learning Without Feature Extraction, Genetic and Evolutionary Computation Conference (GECCO), <a href="https://dl.acm.org/doi/10.1145/3321707.3321845">Link to Presentation</a>
+Algorithm Selection Using Deep Learning Without Feature Extraction, Genetic and Evolutionary Computation Conference (GECCO), <a href="https://dl.acm.org/doi/10.1145/3321707.3321845">Link to the Paper</a>
 
 A list is also available [online](https://scholar.google.com/citations?user=2KL293gAAAAJ&hl=en&authuser=1)
 
@@ -80,42 +89,48 @@ A list is also available [online](https://scholar.google.com/citations?user=2KL2
 `Current`
 __Researcher PhD Candidate__, Edinburgh Napier University
 
-- Writing the final thesis.
-- Develop a research plan and update it continually.
-- Solve the problems and challenges related to the research.
-- Contribute to other research teams.
-- Develop soft skills such as public speaking and communication skills.
-- Meeting with the advisors and the research team members frequently.
+
+As a multi-disciplinary researcher, these are the main activities:
+• Addressing automated algorithm selection and generation problems using Artificial Intelligence techniques such as Deep Learning and Machine Learning.
+• Proposing novel and creative approaches for algorithm selection and generation problems. 
+• Developing and evaluating proof of concepts for these problems using the proposed approaches.
+• Publishing the outcomes of this research in rank A international conferences and high-quality journals.
+• Presenting and discussing the research outcomes with experts from different countries.
+• Establishing researches with colleagues in other domains like cyber security.
+
 
 `2015-2017`
-__BIM Software Developer & BIM Electrical Engineer__, Freelance 
+__Computer Engineer (Low Current) & Software Developer__, Freelance 
 
-As BIM Software Developer
-- Creating workflows to increase the productivity of the customer’s team. 
-- Developing powerful and useful tools using C#  and Dynamo to overcome the BIM software limitations and to avoid the daily tedious tasks. 
+As a software developer:
+• Creating automated workflows to increase the productivity of the customer’s team. 
+• Developing powerful and useful tools using C# and Dynamo to overcome the BIM software limitations and avoid daily tedious tasks.
 
-As BIM Electrical Engineer
-- Electrical and low current design.
-- BIM modelling for lighting, small power, cable routing and low current systems.
-- Electrical wiring, create panel schedule and bill of quantities.
-- In general, modelling, coordination and shop-drawing for electrical systems.
+As a computer engineer (low current):
+• Low current systems design.
+• BIM modelling for lighting, small power, cable routing and low current systems.
+• Electrical wiring, create panel schedule and bill of quantities.
+• In general, modelling, coordination and shop-drawing for electrical systems.
+
+
 
 `2014-2016`
-__BIM Electrical Engineer__, Al-Marasem International For Development 
+__Computer Engineer (Low Current)__, Al-Marasem International For Development 
 
-- BIM MEP coordinator.
-- BIM MEP technical support.
-- Modeling, coordination and shop-drawing for integrated security systems, sound systems, data & telephone networks systems and fire alarm systems using Revit and Navisworks.
-- Representing Al-Marasem at Dar Al Handasah (Shair and Partners) Consultants to solve and chase up the Request For Information (RFI) of the projects.
+• Mechanical, electrical, and plumbing systems coordinator.
+• Mechanical, electrical, and plumbing systems technical support.
+• Modeling, coordination and shop-drawing for integrated security systems, sound systems, data & telephone networks systems and fire alarm systems using Revit and Navisworks.
+• Representing Al-Marasem at Dar Al Handasah (Shair and Partners) Consultants to solve and chase up the Request For Information (RFI) of the projects.
+
 
 `2012-2014`
-__Low Current Site Engineer__, Ocean And River Company (OAR) 
+__Computer Engineer (Low Current)__, Ocean And River Company (OAR) 
 
-Installation and maintenance of computer networks, fire & theft alarm systems, telephone networks and CCTV.
+Installation and maintenance of integrated security systems, computer networks, fire & theft alarm systems, telephone networks and CCTV.
 
 
 <!-- ### Footer
 
-Last updated: December 2020 -->
+Last updated: September 2021 -->
 
 
