@@ -90,8 +90,9 @@ A list is also available [online](https://scholar.google.com/citations?user=2KL2
 __Researcher PhD Candidate__, Edinburgh Napier University
 
 
-As a multi-disciplinary researcher, these are the main activities:
+
 <ul>
+ As a multi-disciplinary researcher, these are the main activities:
 <li> Addressing automated algorithm selection and generation problems using Artificial Intelligence techniques such as Deep Learning and Machine Learning. </li>
 <li> Proposing novel and creative approaches for algorithm selection and generation problems. </li>
 <li> Developing and evaluating proof of concepts for these problems using the proposed approaches. </li>
@@ -105,7 +106,7 @@ __Computer Engineer (Low Current) & Software Developer__, Freelance
 
 As a software developer:
 <ul>
-<li> Creating automated workflows to increase the productivity of the customer’s team. 
+<li> Creating automated workflows to increase the productivity of the customer’s team. </li>
 <li> Developing powerful and useful tools using C# and Dynamo to overcome the BIM software limitations and avoid daily tedious tasks.</li>
 </ul>
 
