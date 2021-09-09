@@ -104,15 +104,18 @@ __Researcher PhD Candidate__, Edinburgh Napier University
 `2015-2017`
 __Computer Engineer (Low Current) & Software Developer__, Freelance 
 
-As a software developer:
+
+
 <ul>
+ As a software developer:
 <li> Creating automated workflows to increase the productivity of the customer’s team. </li>
 <li> Developing powerful and useful tools using C# and Dynamo to overcome the BIM software limitations and avoid daily tedious tasks.</li>
 </ul>
 
-As a computer engineer (low current):
+
 
 <ul>
+ As a computer engineer (low current):
 <li> Low current systems design. </li>
 <li> BIM modelling for lighting, small power, cable routing and low current systems. </li>
 <li> Electrical wiring, create panel schedule and bill of quantities. </li>
