@@ -15,7 +15,7 @@ Data scientist who teaches machines for a living. I am passionate about implemen
 - Optimisation
 - Automated Algorithm Selection 
 - Automated Algorithm Generation
-- Fake News
+- Fake News Combat
 
 
 # Projects & Publications:
