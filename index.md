@@ -29,7 +29,7 @@ Data scientist who teaches machines for a living. I am passionate about implemen
 
 # Projects:
 
-- <a style="text-decoration: none" href="https://github.com/MohamadALissa/Customer_Segmentation" target="_top">Customer Segmentation using Spark and Pandas (Dataset: +500K Rows of Transactions).</a>
+- <a style="text-decoration: none" href="https://github.com/MohamadALissa/Customer_Segmentation" target="_top">Customer segmentation using Spark and Pandas (dataset: +500K rows of transactions).</a>
 - <a style="text-decoration: none" href="https://github.com/MohamadALissa/Spark_StackOverflow/blob/main/Spark_StackOverflow.ipynb" target="_top">Predicting developer salary using Spark.</a>
 - <a style="text-decoration: none" href="https://mohamadalissa.github.io/StackOverflow2020-Dashboard/" target="_top">A Tableau dashboard of StackOverflow 2020 Survey.</a>
 - <a style="text-decoration: none" href="https://github.com/MohamadALissa/Parkinsons-disease-diagnosis-using-deep-learning" target="_top">Parkinson's disease diagnosis using Deep Learning (CNN and RNN-LSTM).</a>
