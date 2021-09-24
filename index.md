@@ -32,7 +32,8 @@ Data scientist who teaches machines for a living. I am passionate about implemen
 - <a style="text-decoration: none" href="https://github.com/MohamadALissa/Customer_Segmentation" target="_top">Customer segmentation using Spark and Pandas (dataset: +500K rows of transactions).</a>
 - <a style="text-decoration: none" href="https://github.com/MohamadALissa/Spark_StackOverflow/blob/main/Spark_StackOverflow.ipynb" target="_top">Predicting developer salary using Spark.</a>
 - <a style="text-decoration: none" href="https://mohamadalissa.github.io/StackOverflow2020-Dashboard/" target="_top">A Tableau dashboard of StackOverflow 2020 Survey.</a>
-- <a style="text-decoration: none" href="https://github.com/MohamadALissa/CO2_Cars_Prediction/blob/main/Regresion_CO2_Emission.ipynb" target="_top">Cars CO2 Emission Prediction</a>
+- <a style="text-decoration: none" href="https://github.com/MohamadALissa/Customer_Churn_Prediction/blob/main/Customer_Churn_Prediction.ipynb" target="_top">Customer Churn Prediction.</a>
+- <a style="text-decoration: none" href="https://github.com/MohamadALissa/CO2_Cars_Prediction/blob/main/Regresion_CO2_Emission.ipynb" target="_top">Cars CO2 Emission Prediction.</a>
 - <a style="text-decoration: none" href="https://github.com/MohamadALissa/Parkinsons-disease-diagnosis-using-deep-learning" target="_top">Parkinson's disease diagnosis using Deep Learning (CNN and RNN-LSTM).</a>
 - <a style="text-decoration: none" href="https://arxiv.org/abs/2101.00675" target="_top">Sentiment analysis using Machine Learning for open domain conversational agent.</a>
 - <a style="text-decoration: none" href="https://mohamadalissa.github.io/Dashboard/" target="_top">Interactive dashboard for a quality assessment of UK universities' research.</a>
