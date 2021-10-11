@@ -30,7 +30,7 @@ Data scientist who teaches machines for a living. I am passionate about implemen
 # Projects:
 
 - <a style="text-decoration: none" href="https://github.com/MohamadALissa/Customer_Segmentation" target="_top">Customer segmentation using Spark and Pandas (dataset: +500K rows of transactions).</a>
-- <a style="text-decoration: none" https://github.com/MohamadALissa/Bank_Customer_Churn_Prediction" target="_top">Customer churn prediction using machine learning with short and long processing pipelines.</a>
+- <a style="text-decoration: none" href="https://github.com/MohamadALissa/Bank_Customer_Churn_Prediction" target="_top">Customer churn prediction using machine learning with short and long processing pipelines.</a>
 - <a style="text-decoration: none" href="https://github.com/MohamadALissa/Spark_StackOverflow/blob/main/Spark_StackOverflow.ipynb" target="_top">Predicting developer salary using Spark.</a>
 - <a style="text-decoration: none" href="https://mohamadalissa.github.io/StackOverflow2020-Dashboard/" target="_top">A Tableau dashboard of StackOverflow 2020 Survey.</a>
 <!-- - <a style="text-decoration: none" href="https://github.com/MohamadALissa/Customer_Churn_Prediction/blob/main/Customer_Churn_Prediction.ipynb" target="_top">Customer Churn Prediction.</a> -->
