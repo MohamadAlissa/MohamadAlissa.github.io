@@ -33,7 +33,7 @@ Data scientist who teaches machines for a living. I am passionate about implemen
 - <a style="text-decoration: none" href="https://github.com/MohamadALissa/Bank_Customer_Churn_Prediction" target="_top">Customer churn prediction using machine learning with short and long processing pipelines.</a>
 - <a style="text-decoration: none" href="https://github.com/MohamadALissa/Spark_StackOverflow/blob/main/Spark_StackOverflow.ipynb" target="_top">Predicting developer salary using Spark.</a>
 - <a style="text-decoration: none" href="https://mohamadalissa.github.io/StackOverflow2020-Dashboard/" target="_top">A Tableau dashboard of StackOverflow 2020 Survey.</a>
-- <a style="text-decoration: none" href="https://github.com/MohamadALissa/Recommendation-System-Using-RBM" target="_top">Developing a recommendation system using custom Restricted Boltzmann Machine as subclass-Tensorflow 2.</a>
+- <a style="text-decoration: none" href="https://github.com/MohamadALissa/Recommendation-System-Using-RBM" target="_top">Developing a recommendation system using custom Restricted Boltzmann Machine as a subclass-Tensorflow 2.</a>
 <!-- - <a style="text-decoration: none" href="https://github.com/MohamadALissa/Customer_Churn_Prediction/blob/main/Customer_Churn_Prediction.ipynb" target="_top">Customer Churn Prediction.</a> -->
 - <a style="text-decoration: none" href="https://github.com/MohamadALissa/CO2_Cars_Prediction/blob/main/Regresion_CO2_Emission.ipynb" target="_top">Cars CO2 emission prediction.</a>
 - <a style="text-decoration: none" href="https://github.com/MohamadALissa/Fetal_Health_Classification/blob/main/fetal_health_classification.ipynb" target="_top">Predicting the outcome of the cardiotocogram exam for fetuses.</a>
