@@ -19,8 +19,8 @@ Data scientist who teaches machines for a living. I am passionate about implemen
 
 # Publications:
 
-- <a style="text-decoration: none" href="https://link.springer.com/epdf/10.1007/s00521-021-06469-7?sharing_token=4PCzHFdiEmm9D7Uh2OQ9Pfe4RwlQNchNByi7wbcMAY4KGHpK9z1JvJw5x7bC-7zMYw1rgi-xVgCisJ0Won-ZVSJuFhew7Apj4FUf8dwS6drV41KNwnrCRbNZAGnCdd6rMu5f7ZfKiUI6wzf5-t41C6sZtOoXorv7_z4IGAhNDCI%3D" target="_top">Parkinson's Disease Diagnosis using Convolutional Neural Networks and Figure-copying Tasks.</a>
-- <a style="text-decoration: none" href="#" target="_top">Automated Algorithm Selection: from Feature-Based to Feature-Free Approaches.</a>
+- <a style="text-decoration: none" href="https://rdcu.be/cxqqn" target="_top">Parkinson's Disease Diagnosis using Convolutional Neural Networks and Figure-copying Tasks.</a>
+<!-- - <a style="text-decoration: none" href="#" target="_top">Automated Algorithm Selection: from Feature-Based to Feature-Free Approaches.</a> -->
 - <a style="text-decoration: none" href="https://ieeexplore.ieee.org/document/9504989" target="_top">A Neural Approach to Generation of Constructive Heuristics.</a>
 - <a style="text-decoration: none" href="https://dl.acm.org/doi/10.1145/3321707.3321845" target="_top">Algorithm Selection Using Deep Learning Without Feature Extraction</a>
 - <a style="text-decoration: none" href="https://dl.acm.org/doi/10.1145/3377930.3390224" target="_top">A Deep Learning Approach to Predicting Solutions in Streaming Optimisation Domains</a>
