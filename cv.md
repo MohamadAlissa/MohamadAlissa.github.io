@@ -94,7 +94,7 @@ __Senior Data Scientist__, Bigtincan
 __Data Scientist__, Bigtincan
 
 `2018-2021`
-__PhD Scientific Researcher __, Edinburgh Napier University
+__PhD Scientific Researcher__, Edinburgh Napier University
 
 
 
