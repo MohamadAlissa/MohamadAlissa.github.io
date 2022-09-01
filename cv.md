@@ -88,7 +88,7 @@ Albasel Award, Damascus University
 ## Occupation
 
 `Current`
-__Researcher PhD Candidate__, Edinburgh Napier University
+__Senior Data Scientist__, Bigtincan
 
 
 
