@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-Researcher PhD Candidate at Edinburgh Napier University
+__Senior Data Scientist__ at Bigtincan
 
 ## Education
 
