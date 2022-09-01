@@ -87,8 +87,14 @@ Albasel Award, Damascus University
 
 ## Occupation
 
-`Current`
+`2022-Current`
 __Senior Data Scientist__, Bigtincan
+
+`2021-2022`
+__Data Scientist__, Bigtincan
+
+`2018-2021`
+__PhD Scientific Researcher __, Edinburgh Napier University
 
 
 
