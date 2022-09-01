@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 <p align="center">
-Data scientist who teaches machines for a living. I am passionate about implementing creative solutions for never-before-solved/seen problems. I love to automate & optimise processes and work with non-traditional ideas.
+Senior Data scientist who teaches machines for a living. I am passionate about implementing creative solutions for never-before-solved/seen problems. I love to automate & optimise processes and work with non-traditional ideas.
 </p>
 
 ## Current Interests:
